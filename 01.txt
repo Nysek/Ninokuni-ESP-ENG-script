@@ -1,0 +1,42 @@
+(Pressed start) PAUSA - PAUSED
+Salir del juego - Exit Game
+Continuar - Continue
+
+(Top left screen) Calle Morton - Morton Street
+
+Eh, Oliver!
+Mark:"Ven aqui" - "Come over here"
+
+Ultiliza la cruceta o desliza el stylus para mover a Oliver. - Use the D-pad or slide the stylus to move Oliver.
+
+Para hablar con Mark tocalo o acercate pilsando el boton A. - To talk with Mark, tap on him or get close to him and press the button A.
+
+Ve a hablar con Mark! - Go talk to mark!
+
+Man:"Que tal, Oliver? Haciendo recados, Eh?" - "What's up, Oliver? You doing errands, Eh?"
+Man:"Los productos de la tienda de Leila son todos de gran calidad, ademas de estar riquisimos." - "The products of Leil's store are of great quality, in addition to being very tasty."
+
+Mark:"Eh, Oliver! Te estaba buscando." - "Eh, Oliver! I was looking for you."
+Oliver:"Mi tia me ha dicho que querias ensenarme algo." - "My aunt told me that you wanted to show me something."
+Mark:"Si! Sabes de sobra de que se trata." - "Of course! Do you know what's it's about."
+Oliver:"Que bien, Mark! Cuando lo vamos a probar?" - "Amazing, Mark! When are we going to test it out?"
+Mark:"Creo que esta noche lo pondremos en marcha." - "I think this night we could put in motion."
+Oliver:"Esta noche? Tan pronto? Es que tengo que pedirle permiso a mi madre y..." - "This night? so soon? It's just that I have to ask permission from my mother and..."
+Mark:"Excusas, excuasas... Acaso no eres mayorcito para pedirle permiso a tu madre?" - "Excuses, Excuses... Maybe your not big enough to ask permission from your mother?"  
+Oliver:"Em..."
+Oliver:"No puedo esperar mas! Intentare escaparme." - "I can't wait any longer! I'll try to escape."
+Mark:"Je, Vale!" - "He, Alright!"
+Mark:"Pues nos vemos esta noche en el garaje." - "Well, we'll meet up this night in the garage."
+Oliver:"Si!" - "yeah!"
+Oliver:"Ya va siendo hora de que vuelva a casa." - "It's almost time to get back home."
+
+Para llegar a casa sigue la flecha en el mapa de la pantalla superior. - To get home, follow the arrow on the map that's on the top screen.
+
+Sigue la flecha roja para volver a casa. - Follow the red arrow to get back home.
+
+(Leaving area) Oliver:"Tengo que volver a casa." - "I have to get back home."
+
+(Top screen)Casa de Oliver - Oliver's house
+
+Old woman by Oliver's house:"Si te pierdas en algun momento, consulta el mapa de vez en cuando." - "Any moment you get lost, consult the map once in a while." 
+Old woman by Oliver's house:"Por ejemplo, Ves el icono de esa casita color naranja? Indica el lugar donde esta tu casa." - "For example, Do you see the icon of that orange colored house? It shows you where your house is."
