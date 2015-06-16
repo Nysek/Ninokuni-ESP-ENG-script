@@ -1,7 +1,7 @@
 Jugador - Player
-Tiempo de juego - Time of play
+Tiempo de juego - Time Played
 Lugar - Place
 Historia - History or Story
 Cargar esta partida? - Load this game?
-Cargar - Load
+(Button)CARGAR - Load
 Cargando la partida... - Loading the game... 
