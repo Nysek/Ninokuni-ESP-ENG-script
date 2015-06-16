@@ -1,0 +1,17 @@
+Descargar - Download
+---------------Download menu------------------
+Semanal Magico - Weekly Magic
+Enterate de los cotilleos que se distribuyen a diario - Find out about the gossip that is distributed daliy
+Descargars WI-FI - WI-FI Downloads
+Recibe los datos utilizando la conexion WI-FI. - Receive data using the WI-FI connection.
+Descargars inalambricas - Wireless Downloads
+Recibe los datos repetidos solo durante los eventos. - Receive repeated data only during events.
+Ajustes de la conexion WI-FI - WI-FI Settings
+Configura la conexion WI-FI - Configure the WI-FI Connection
+
+Semanal Magico - Weekly Magic
+Descargars WI-FI - WI-FI Downloads
+Descargars inalam. - Wireless Downloads
+Ajustes WI-FI - Adjust WI-FI
+---------------Download Menu </end>------------
+Volver - Back
