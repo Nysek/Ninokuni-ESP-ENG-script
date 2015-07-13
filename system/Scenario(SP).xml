@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenario>
+  <String ID="5">
+  </String>
+  <String ID="e">｢Ve a hablar con Mark!</String>
+  <String ID="f">Sigue la flecha roja para volver a casa.</String>
+  <String ID="10">Llｩvale la compra a tu madre.</String>
+  <String ID="46">
+  </String>
+  <String ID="48">Examina la chimenea.</String>
+  <String ID="50">
+  </String>
+  <String ID="5a">Sal y busca fuera una varita mｨgica.</String>
+  <String ID="5f">Busca algo que pueda servir de varita.</String>
+  <String ID="60">｢Ve al parque!</String>
+  <String ID="62">Busca un lugar para usar la magia.</String>
+  <String ID="64">｢Abre el Vademｩcum y usa el hechizo!</String>
+  <String ID="82">Atraviesa el Bosque del Norte.</String>
+  <String ID="87">Sigue a Shizuku.</String>
+  <String ID="96">
+  </String>
+  <String ID="9b">Ve hacia las Cataratas Susurrantes.</String>
+  <String ID="a8">｢Atraviesa las Cataratas Susurrantes!</String>
+  <String ID="b2">｢Dirｪgete al Reino de Goronel!</String>
+  <String ID="b4">Habla con los guardias.</String>
+  <String ID="b7">Habla con el guardia ｳmotivadoｴ.</String>
+  <String ID="be">｢Devuelve el ｳentusiasmoｴ al guardia!</String>
+  <String ID="c1">
+  </String>
+  <String ID="c3">｢Entra en el Reino de Goronel!</String>
+  <String ID="d2">Dirｪgete al castillo, al norte de Goronel.</String>
+  <String ID="d7">｢Acude a Misiones Exprｩs!</String>
+  <String ID="dc">｢Ayuda a los ciudadanos y ve al castillo!</String>
+  <String ID="fa">Encuentra una tienda de ropa cercana.</String>
+  <String ID="104">Ve a descansar a la posada.</String>
+  <String ID="118">
+  </String>
+  <String ID="190">Recoge la ropa nueva.</String>
+  <String ID="1cc">｢Habla con el rey de Goronel!</String>
+  <String ID="1f4">｢Vuelve a la ciudad e investiga!</String>
+  <String ID="21c">｢Usa ｳPortalｴ para volver a Hotroit!</String>
+  <String ID="23a">｢Ve a la tienda de Leila a ver a Frank!</String>
+  <String ID="24e">｢Usa ｳPortalｴ para volver a Ninokuni!</String>
+  <String ID="258">｡Sabrｨ algo Buhonera?</String>
+  <String ID="28a">｡Quｩ ocurre en las alcantarillas?</String>
+  <String ID="2bc">｢Vence a la rata de las alcantarillas!</String>
+  <String ID="334">｢Llｩvale el bastoncillo al rey!</String>
+  <String ID="352">Busca un corazｫn lleno de ｳentusiasmoｴ.</String>
+  <String ID="366">Encuentra el ｳentusiasmoｴ con el relicario.</String>
+  <String ID="384">Extrae el ｳentusiasmoｴ a ese chico.</String>
+  <String ID="7d0">｢Devuｩlvele el ｳentusiasmoｴ al rey!</String>
+  <String ID="1388">Ve a la Armerｪa Rapaz.</String>
+  <String ID="2710">
+  </String>
+  <String ID="4e20">｢Dirｪgete al Reino de Babanashia!</String>
+  <String ID="7530">｢Busca a ｳalguienｴ que conozca el bosque!</String>
+  <String ID="1adb0">
+  </String>
+  <String ID="1d4c0">Encuentra el manantial del bosque.</String>
+  <String ID="1fbd0">｢Usa la magia con el huevo del ｬnimo!</String>
+  <String ID="33450">Encuentra el manantial del bosque.</String>
+  <String ID="493e0">｢Restaura el ｳmanantial vitalｴ!</String>
+  <String ID="64190">｢Dirｪgete al Reino de Babanashia!</String>
+  <String ID="7a120">Busca a Solｫn en la calle principal.</String>
+  <String ID="7c830">
+  </String>
+  <String ID="7cc18">｡Quiｩn compartirｨ el alma con Maru?</String>
+  <String ID="7d000">Busca a una chica parecida a Maru.</String>
+  <String ID="7d3e8">｢Ve a la casa del tejado azul!</String>
+  <String ID="952b8">｢Usa la magia para ver a Sherry!</String>
+  <String ID="95a88">
+  </String>
+  <String ID="aae60">Ve a la fｨbrica y habla con Claudio.</String>
+  <String ID="de698">Devuelve la cordura a Claudio.</String>
+  <String ID="de6a2">｢Ve y habla con Sherry!</String>
+  <String ID="f6950">
+  </String>
+  <String ID="100590">｢Regresa a Babanashia y ayuda a Maru!</String>
+  <String ID="127690">｢Dale el fragmento de ｳcorajeｴ a Maru!</String>
+  <String ID="159758">｢Dirｪgete al oeste, al Monte Decarock!</String>
+  <String ID="16e360">
+  </String>
+  <String ID="17a6b0">｢Sube hasta la cima del Monte Decarock!</String>
+  <String ID="17ae80">｢Adｩntrate en la Cueva de los Retos!</String>
+  <String ID="17b268">Libra al pajarito de esos matones.</String>
+  <String ID="17b650">｢Adｩntrate en la Cueva de los Retos!</String>
+  <String ID="17ba38">Supera las cuatro pruebas.</String>
+  <String ID="186a00">｢Afronta la prueba final!</String>
+  <String ID="19a280">｢Visita el Templo del Espｪritu!</String>
+  <String ID="19c990">Intenta llegar hasta la cumbre.</String>
+  <String ID="19dd18">｢Sube hasta la cima del Monte Decarock!</String>
+  <String ID="1a17b0">Intenta abrir el portｫn hacia la cumbre.</String>
+  <String ID="1a19a4">｢Sube hasta la cima del Monte Decarock!</String>
+  <String ID="1b9e50">
+  </String>
+  <String ID="989680">｢Regresa al Reino de Babanashia!</String>
+  <String ID="9a1d52">｢Dirｪgete al sur, a Puerto Bikini!</String>
+  <String ID="9a1f14">｡Habrｨ algo de energizante en el muelle?</String>
+  <String ID="9a2108">
+  </String>
+  <String ID="9a30a8">Busca un barco en Puerto Bikini.</String>
+  <String ID="9ba3c0">
+  </String>
+  <String ID="9bad84">Busca un barco en Puerto Bikini.</String>
+  <String ID="9bc300">｢Ve a ver a la reina de Babanashia!</String>
+  <String ID="9d2a60">
+  </String>
+  <String ID="9d2b28">｢Ve a ver a la reina de Babanashia!</String>
+  <String ID="9eb100">
+  </String>
+  <String ID="9eb1c8">Vuelve a Hotroit a ver a tｪa Leila.</String>
+  <String ID="a037a0">
+  </String>
+  <String ID="a03804">El queso enloquece a Leila, vuelve a Ninokuni.</String>
+  <String ID="a03868">｢Dirｪgete hasta la Fuente Lｨctea!</String>
+  <String ID="a1be40">Convierte la leche de la fuente en queso.</String>
+  <String ID="a4cb80">Llｩvale el queso a la reina de Babanashia.</String>
+  <String ID="a4cbb2">
+  </String>
+  <String ID="a65220">Extrae la ｳmoderaciｫnｴ del corazｫn de Curｨn.</String>
+  <String ID="a65284">Entrｩgale la ｳmoderaciｫnｴ a la reina.</String>
+  <String ID="a7d8c0">Pregｬntale a la reina por el Gran Sabio.</String>
+  <String ID="a7d924">Regresa a Puerto Bikini y coge el barco.</String>
+  <String ID="a7dab4">Entrega el salvoconducto a Zergas.</String>
+  <String ID="a7dca8">Despｪdete del alcalde antes de partir.</String>
+  <String ID="a96348">｢Persigue al ladrｫn del retrato!</String>
+  <String ID="ac6ca0">
+  </String>
+  <String ID="ac7858">｡Habrｨ alguien cerca con moderaciｫn?</String>
+  <String ID="adf340">
+  </String>
+  <String ID="aeb690">｢Dirｪgete con la ｳmoderaciｫnｴ hasta el muelle!</String>
+  <String ID="b10080">
+  </String>
+  <String ID="b28720">｢Acｩrcate al cofre que estｨ en el muelle!</String>
+  <String ID="1312d00">
+  </String>
+  <String ID="1315410">｢Ve al noreste, al Continente de Reka!</String>
+  <String ID="1317b20">
+  </String>
+  <String ID="131a230">｢Pon rumbo al oeste, a Isla Recreo!</String>
+  <String ID="132b3a0">
+  </String>
+  <String ID="132dab0">｢Ve a Dell Mocalle a por fuegos artificiales!</String>
+  <String ID="13301c0">｢Busca la casa del maestro Flint!</String>
+  <String ID="13328d0">｢Ve al casino y encuentra a Damara!</String>
+  <String ID="134fd90">｢Pregunta por Damara en el casino!</String>
+  <String ID="135c0e0">Ve a hospedarte al hotel.</String>
+  <String ID="137e3c0">
+  </String>
+  <String ID="13831e0">Explora Dell Mocalle.</String>
+  <String ID="1388000">Dirｪgete a la casa del maestro Flint.</String>
+  <String ID="138a710">｢Entrｩgale la ｳautoestimaｴ a Damara!</String>
+  <String ID="138ce20">Recoge los fuegos artificiales de Damara.</String>
+  <String ID="1391c40">
+  </String>
+  <String ID="13d6200">｢Embｨrcate y ve a por el ojo tormentoso!</String>
+  <String ID="1c9c380">
+  </String>
+  <String ID="1ca86d0">Encuentra al sabio en el Imperio Borg.</String>
+  <String ID="1cb4a20">｢Reｬne informaciｫn acerca del sabio!</String>
+  <String ID="1cc0d70">Explora el Imperio Borg.</String>
+  <String ID="1cd9410">
+  </String>
+  <String ID="1ce5760">｢Ve a ver al tendero del Mercado Negro!</String>
+  <String ID="1cf1ab0">
+  </String>
+  <String ID="1cfde00">Habla con Rｬcula en la trastienda.</String>
+  <String ID="1d0a150">
+  </String>
+  <String ID="1d0c860">Cuｩlate en el Palacio Imperial.</String>
+  <String ID="1d0ef70">
+  </String>
+  <String ID="1d0f358">｢Busca los aposentos del emperador!</String>
+  <String ID="1d102f8">｢Huye de los soldados!</String>
+  <String ID="1d11680">
+  </String>
+  <String ID="1d164a0">｢Usa la alcantarilla para llegar al patio!</String>
+  <String ID="1d227f0">｢Han dado la alerta! ｢Escapa!</String>
+  <String ID="1d3ae90">
+  </String>
+  <String ID="1d471e0">｢Vuelve al Mercado Negro!</String>
+  <String ID="1d498f0">Entrｩgale la medicina a Rｬcula.</String>
+  <String ID="1d4ac78">Extrae la ｳconfianzaｴ del corazｫn de Rｬcula.</String>
+  <String ID="1d4c000">
+  </String>
+  <String ID="1d53530">｢Reｬnete con Zucca a la entrada del palacio!</String>
+  <String ID="1d5f880">｢Entrｩgale la ｳconfianzaｴ al emperador!</String>
+  <String ID="1d905c0">
+  </String>
+  <String ID="1d92cd0">｢Dirｪgete al Valle Espectral!</String>
+  <String ID="1ddad28">｢Encuentra la varita legendaria!</String>
+  <String ID="1df2040">
+  </String>
+  <String ID="1e0a6e0">｢Encuentra la varita legendaria!</String>
+  <String ID="1e2f0d0">
+  </String>
+  <String ID="1e317e0">Vuelve a la cabaｭa de Yulin.</String>
+  <String ID="1e3b420">
+  </String>
+  <String ID="2625a00">｢Informa al emperador Buhiden!</String>
+  <String ID="2628110">｢Dirｪgete a Jangol con el visado imperial!</String>
+  <String ID="262cf30">｢Reｬne informaciｫn por todo Jangol!</String>
+  <String ID="262f640">｢Busca la cabaｭa de la ｳmｨscara giganteｴ!</String>
+  <String ID="263e0a0">｢Encuentra al ladrｫn de la joya!</String>
+  <String ID="2656740">｢Dirｪgete a la Guarida del Dragｫn!</String>
+  <String ID="268e9b0">｢Adｩntrate en la Guarida del Dragｫn!</String>
+  <String ID="269fb20">｢Enfrｩntate a Kublai!</String>
+  <String ID="26b81c0">
+  </String>
+  <String ID="26e8f00">｢Ve a ver a Sazara al Palacio Celestial!</String>
+  <String ID="27015a0">
+  </String>
+  <String ID="2719c40">｢Entrｩgale el ｳamorｴ de Kublai a Sazara!</String>
+  <String ID="2dc6c00">
+  </String>
+  <String ID="2e40d20">｢Dirｪgete a la entrada de Xanadｬ!</String>
+  <String ID="2ebae40">
+  </String>
+  <String ID="2fc7720">｢Reｬne las ｳtres piedras mｨgicasｴ!</String>
+  <String ID="2ffab70">｢Encuentra la piedra mｨgica!</String>
+  <String ID="2ffd280">
+  </String>
+  <String ID="300e3f0">｢Sigue a la rana arcoｪris!</String>
+  <String ID="3010b00">
+  </String>
+  <String ID="3013210">｢Usa la magia y abre la puerta de la celda!</String>
+  <String ID="3015920">
+  </String>
+  <String ID="301a740">｢Adｩntrate en la cripta junto a Tamel!</String>
+  <String ID="30291a0">｢Enfrｩntate a Apep!</String>
+  <String ID="308ac20">
+  </String>
+  <String ID="3950da0">｢Reｬne las ｳtres piedras mｨgicasｴ!</String>
+  <String ID="3981ae0">｢Encuentra la piedra mｨgica!</String>
+  <String ID="39caec0">｢Recorre la gruta en busca del capitｨn!</String>
+  <String ID="3a142a0">
+  </String>
+  <String ID="42da420">｢Reｬne las ｳtres piedras mｨgicasｴ!</String>
+  <String ID="42f2ac0">｢Explora la aldea de Frigoria!</String>
+  <String ID="4323800">
+  </String>
+  <String ID="433bea0">｢Ve a ver al alcalde de la aldea!</String>
+  <String ID="4340cc0">｢Dirｪgete a la Caverna Cristalina!</String>
+  <String ID="43481f0">｢Encuentra la piedra mｨgica!</String>
+  <String ID="4354540">｢Sigue el rastro de Ali!</String>
+  <String ID="439d920">｢Encuentra la piedra mｨgica!</String>
+  <String ID="47868c0">｢Reｬne las ｳtres piedras mｨgicasｴ!</String>
+  <String ID="479ef60">｢Vuelve a Xanadｬ!</String>
+  <String ID="4c4b464">
+  </String>
+  <String ID="4c4b5f4">｢Vuela con Kuro hacia el Castillo Sinretorno!</String>
+  <String ID="4c4b7e8">
+  </String>
+  <String ID="4c4bbd0">Investiga la ciudad de Reka.</String>
+  <String ID="4c4bfb8">Visita a la Gran Anciana de Reka.</String>
+  <String ID="4c4c3a0">
+  </String>
+  <String ID="4c4c788">｢Busca un fragmento de corazｫn con ｳBondadｴ!</String>
+  <String ID="4c4cb70">｢Entrega la ｳbondadｴ a Iris!</String>
+  <String ID="4c63aa0">
+  </String>
+  <String ID="4c7c140">｢Recibe la madera de la reina Caura!</String>
+  <String ID="4c947e0">｢Pｪdele al rey Nyandal que talle el leｭo!</String>
+  <String ID="4cace80">｢Pｪdele a Buhiden que complete el Clarｪn!</String>
+  <String ID="4cc5520">｢Toca el Clarｪn y cruza la Ciｩnaga Infecta!</String>
+  <String ID="4cddbc0">｢Busca por Reka al escurridizo Maxy!</String>
+  <String ID="4cf6260">｢Vuelve a Hotroit y habla con Mark!</String>
+  <String ID="4d0e900">｡Dｫnde podrｪa haber ido Markｵ?</String>
+  <String ID="4d3f640">
+  </String>
+  <String ID="4d57ce0">｢Encuｩntrate con Maxy en la Ciｩnaga Infecta!</String>
+  <String ID="4d70380">｢No pierdas de vista a Maxy!</String>
+  <String ID="4d88a20">｢Vence a Perfidia para salvar a tus amigos!</String>
+  <String ID="55d4a80">
+  </String>
+  <String ID="55ef830">｢Dirｪgete al tenebroso Castillo Sinretorno!</String>
+  <String ID="55f1f40">｢Aprｩndete la contraseｭa escrita en el suelo!</String>
+  <String ID="56057c0">｢Usa la contraseｭa para abrir el portｫn!</String>
+  <String ID="5697f80">｢Recorre el castillo y encuentra a Jabo!</String>
+  <String ID="56b0620">｢Es hora de la batalla final contra Jabo!</String>
+  <String ID="56b7b50">
+  </String>
+  <String ID="5f5e100">｢Huye del castillo antes de que se derrumbe!</String>
+  <String ID="5f5e101">
+  </String>
+</Scenario>
