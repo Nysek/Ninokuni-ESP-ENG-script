@@ -2,7 +2,7 @@
 <Scenario>
   <String ID="5">
   </String>
-  <String ID="e">｢Go talk to Mark!</String>
+  <String ID="e">Go talk to Mark!</String>
   <String ID="f">Follow the red arrow to get back home</String>
   <String ID="10">Bring the groceries to your mother</String>
   <String ID="46">
@@ -12,9 +12,9 @@
   </String>
   <String ID="5a">Go outside and find a magic wand.</String>
   <String ID="5f">Find something that could serve as a wand.</String>
-  <String ID="60">｢Goto the Park!</String>
+  <String ID="60">Goto the Park!</String>
   <String ID="62">Find a place to use the magic.</String>
-  <String ID="64">｢Open the Vademｩcum and use the spell!</String>
+  <String ID="64">Open the Vademｩcum and use the spell!</String>
   <String ID="82">Cross the North Woods.</String>
   <String ID="87">Follow Shizuku.</String>
   <String ID="96">
@@ -22,7 +22,7 @@
   <String ID="9b">Ve hacia las Cataratas Susurrantes.</String>
   <String ID="a8">｢Atraviesa las Cataratas Susurrantes!</String>
   <String ID="b2">｢Dirｪgete al Reino de Goronel!</String>
-  <String ID="b4">Habla con los guardias.</String>
+  <String ID="b4">Talk with the Guardians.</String>
   <String ID="b7">Habla con el guardia ｳmotivadoｴ.</String>
   <String ID="be">｢Devuelve el ｳentusiasmoｴ al guardia!</String>
   <String ID="c1">
@@ -39,13 +39,13 @@
   <String ID="1cc">｢Habla con el rey de Goronel!</String>
   <String ID="1f4">｢Vuelve a la ciudad e investiga!</String>
   <String ID="21c">｢Usa ｳPortalｴ para volver a Hotroit!</String>
-  <String ID="23a">｢Ve a la tienda de Leila a ver a Frank!</String>
-  <String ID="24e">｢Usa ｳPortalｴ para volver a Ninokuni!</String>
+  <String ID="23a">Goto the store of Leila to see Frank!</String>
+  <String ID="24e">Use a portal to go back to Ninokuni!</String>
   <String ID="258">｡Sabrｨ algo Buhonera?</String>
   <String ID="28a">｡Quｩ ocurre en las alcantarillas?</String>
   <String ID="2bc">｢Vence a la rata de las alcantarillas!</String>
   <String ID="334">｢Llｩvale el bastoncillo al rey!</String>
-  <String ID="352">Busca un corazｫn lleno de ｳentusiasmoｴ.</String>
+  <String ID="352">Find a heart filled with enthusiasm.</String>
   <String ID="366">Encuentra el ｳentusiasmoｴ con el relicario.</String>
   <String ID="384">Extrae el ｳentusiasmoｴ a ese chico.</String>
   <String ID="7d0">｢Devuｩlvele el ｳentusiasmoｴ al rey!</String>
@@ -278,7 +278,7 @@
   <String ID="55f1f40">｢Aprｩndete la contraseｭa escrita en el suelo!</String>
   <String ID="56057c0">｢Usa la contraseｭa para abrir el portｫn!</String>
   <String ID="5697f80">｢Recorre el castillo y encuentra a Jabo!</String>
-  <String ID="56b0620">｢Es hora de la batalla final contra Jabo!</String>
+  <String ID="56b0620">It's time for the final battle with Jabo!</String>
   <String ID="56b7b50">
   </String>
   <String ID="5f5e100">｢Huye del castillo antes de que se derrumbe!</String>
