@@ -1,4 +1,4 @@
-(Pressed start) PAUSA - PAUSED
+(Pressed start) PAUSA - PAUSE
 Salir del juego - Exit Game
 Continuar - Continue
 
